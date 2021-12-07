@@ -1,0 +1,21 @@
+{
+    "List_of_degrees": [
+        {
+            "degree": {
+                "School": "University Of Massachusetts Lowell",
+                "Major": "Applied Computational Mathematics",
+                "Degree Type": "Bachelor of Science (BS)",
+                "Year Conferred": "2019"
+
+            }
+        },
+        {
+            "degree":{
+                "School": "Boston University",
+                "Major": "Computer Information Systems",
+                "Degree Type": "Master of Science (MS)",
+                "Year Conferred": "2022"
+            }
+        }
+    ]
+}
